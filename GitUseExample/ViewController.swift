@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("This is a Git tutorial")
+        
+        print("all is a dream")
     }
 
     override func didReceiveMemoryWarning() {
